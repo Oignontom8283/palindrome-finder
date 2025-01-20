@@ -30,6 +30,9 @@ if __name__ == "__main__":  # This line is for logistics. Don't pay attention to
             break
         except ValueError:
             print("Oops! That was not a valid number. Try again...\n")
+
+    # Display a loading message
+    print("\nLoading ...\n")
     
     # Start time measurement
     start_time = time.time()
