@@ -3,14 +3,14 @@
 Nous allont voire comment trouver un n-iéme nombre palindrome grace a un programme fait avec le language de programmation Python.
 
 Pour cela on va voire
-- [Qu'es qu'un nombre Palindrome ?](#what_is_markdown)
+- [Qu'es qu'un nombre Palindrome ?](#what_is_palindrome_number)
 - [Code du Programme](#program_code)
 - [Explication Globale du Programme](#program_overview)
 - [Explication par Bloc](#explanation_by_nlock)
 - [Explication Ligne par Ligne avec Commentaires](#line_by_line_explanation_with_comments)
 
 ## Qu'es qu'un nombre Palindrome ?
-<div id='what_is_markdown'/>  
+<div id='what_is_palindrome_number'/>  
 
 Un nombre palindrome est un nombre qui reste le même lorsqu'on inverse l'ordre de ses chiffres. En d'autres termes, il se lit de la même manière de gauche à droite et de droite à gauche.
 
