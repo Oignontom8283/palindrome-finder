@@ -3,8 +3,12 @@
 
   <h2>Les languages supportés</h2>
   <div>
-    <img src="./.github/images/languages/python.png" width="100" height="100"/>
-    <img src="./.github/images/languages/c++.png" width="100" height="100"/>
+    <a href="./Python/fr/README.md">
+      <img src="./.github/images/languages/python.png" width="100" height="100" alt="Python"/>
+    </a>
+    <a href="./C++/fr/Main.cpp">
+      <img src="./.github/images/languages/c++.png" width="100" height="100" alt="C++"/>
+    </a>
   </div>
 </div>
 
