@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Trouver un nombre palindrome en programmation</h1>
 
-  <h2>Les languages supportés</h2>
+  <h2>Les languages/plateformes supportés</h2>
   <div>
     <a href="./Python/fr/README.md">
       <img src="./.github/images/languages/python.png" width="100" height="100" alt="Python"/>
