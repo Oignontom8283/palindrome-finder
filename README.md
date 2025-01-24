@@ -9,6 +9,9 @@
     <a href="./C++/fr/Main.cpp">
       <img src="./.github/images/languages/c++.png" width="100" height="100" alt="C++"/>
     </a>
+    <a href="./Numworks/fr/README.md">
+      <img src="./.github/images/languages/numworks.png" width="100" height="100" alt="Numworks"/>
+    </a>
   </div>
 </div>
 
